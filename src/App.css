@@ -1,0 +1,78 @@
+p {
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin: 3px;
+  padding: 3px;
+  border: black 2px solid;
+}
+
+h1{
+
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+/*imagen*/
+.card-container.card {
+  content: '';
+  height: 600px;
+  width: 917px;
+  top: 55px;
+  left: 0px;
+  position: absolute;
+}
+
+/*register*/
+.card-container.cardr {
+  
+  
+  
+  padding: 0px 0px 40px 50px;
+  background-color: #ffffff00;
+  
+  
+  
+  
+}
+
+.cardr {
+  float: right;
+  background-color: #f7f7f7;
+  padding: 0px 0px 0px;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  /*-webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);*/
+  /*box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);*/
+}
+.cardl {
+  float: right;
+  background-color: #f7f7f7;
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+
+.profile-img-card {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 10px;
+  color: #db6767;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
